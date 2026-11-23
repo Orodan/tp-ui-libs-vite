@@ -18,7 +18,7 @@ Les approches Angular Material et Angular Aria utilisent l'autre dépôt, `tp-ui
 
 ## Démarrer
 
-Prérequis : Node.js 22 ou 24 (versions LTS), npm et git.
+Prérequis : Node.js 26 (version LTS), npm et git.
 
 ```bash
 git clone <url-de-ce-depot>
